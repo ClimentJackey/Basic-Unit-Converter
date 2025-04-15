@@ -26,3 +26,13 @@ All notable changes to this project will be documented in this file.
 ### Changed
 - app and lib shall be install in bin folder
 
+## [1.1.1] - 2025-04-15
+### Added
+- Hello world code example added.
+
+### Fixed
+- release 1.1.0 says code example added for helloword but actually it was not added
+
+### Changed
+- app and lib shall be install in bin folder
+
