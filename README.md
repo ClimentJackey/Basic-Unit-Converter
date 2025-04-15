@@ -7,10 +7,15 @@ In the root directory
 - mkdir build
 - cd build
 - cmake ..
-- make
+- cmake --install .
 
 ## Example
 
+### Run Application
 You can run the examples explicitly from a command line from root:
 
-``./build/unitconverter-app Celsius 30 Fahrenheit``
+``./bin/unitconverter-app Celsius 30 Fahrenheit``
+
+### Use Lib
+
+``.bin/examples/helloworld``
